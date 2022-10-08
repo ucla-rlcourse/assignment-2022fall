@@ -7,6 +7,8 @@ In the assignments, you may find the badge as:
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
+
 Click on the button and you will be redirected to the colab website and shown the assignment notebook. The pop up window looks like:
 
 ![](figs/fig1-open-colab.png)
