@@ -21,7 +21,11 @@ Generally, the way you use this repo is:
 
 Beautiful code and comment make extra credits. Our aesthetic standard is [PEP 8](https://www.python.org/dev/peps/pep-0008/).
 
+## Setup instructions
 
+You can find local environment setup instruction in [assignment 0](assignment0).
+
+Apart from editing and training locally, you can choose to use Colab. The instruction on how to incorporate Colab into the assignment can be found in our [Colab tutorial](colab-tutorial.md). 
 
 ------
 
