@@ -35,9 +35,10 @@ In the new popup window, you can save your edits as:
 
 ### Some notes
 
-You can use local machine or colab to edit and run your code. We don't require which platform you use. 
+You can use local machine and/or colab to edit and run your code. We don't require which platform you use.
 
-You can also download the assignment in local machine, edit it and make all tests passed, then upload the notebook to Google drive and open it in colab. By doing so you can accelerate debugging while utilizes free computing resource to run your code.
+You can download the assignment in local machine, edit it and make all tests passed, then upload the notebook to Google drive and open it in colab.
+By doing so you can accelerate debugging while utilize free computing resource to run your code.
 
 Colab has usage limit. Please check colab policy very carefully to avoid your training being unexpectedly stopped or unsaved.
 
