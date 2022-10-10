@@ -12,6 +12,20 @@ We left sufficient information in the jupyter notebook so please walk through th
 
 
 
+### Colab is supported
+
+
+
+<a target="_blank" href="https://colab.research.google.com/github/ucla-rlcourse/assignment-2022fall/blob/main/assignment1/assignment1.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+<br>
+
+
+Apart from editing and training locally, you can choose to use Colab. The instruction on how to incorporate Colab into the assignment can be found in our [Colab tutorial](../colab-tutorial.md).
+
+
 
 ### Finish the assignment
 
