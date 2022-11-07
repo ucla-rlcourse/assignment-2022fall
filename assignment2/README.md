@@ -1,5 +1,8 @@
 # Assignment 2: Deep Q Learning and Policy Gradient
 
+```diff
++ 2022-11-06: Fix update_network in PolicyGradientWithBaselineTrainer
+```
 
 
 Welcome to the assignment 2 of our RL course. This assignment consists of the following parts:
@@ -49,7 +52,7 @@ Following the procedure to submit your work:
 
 1. Before submitting, remember to fill your name and student ID into the table at the top of the file.
 2. Run your codes in sequential manner, that is, run it by `Restart & Run All`. Remember to keep everything (printed message) intact.
-3. Generate the **PDF file** via `File / Download As / pdf ` to the assignment directory.
+3. Generate the **PDF file** via `File / Download As / pdf ` or `Print -> Save as PDF` to the assignment directory.
 4. Zip the assignment directory to a **ZIP file**.
 5. Submit the **PDF file** and the **ZIP file** to BruinLearn.
 
