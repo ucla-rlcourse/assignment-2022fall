@@ -259,8 +259,6 @@ class GAILTrainer(PPOTrainer):
                 #  and flatten the tensor by calling .flatten()
                 agent_prediction = None
                 expert_prediction = None
-                assert agent_prediction.dim() == 1
-                assert expert_prediction.dim() == 1
                 pass
 
                 # [TODO]: Compute the discriminator loss using discriminator_loss_func.

@@ -275,6 +275,7 @@ class PPOTrainer:
                 # [TODO] Update policy by minimizing total_loss, applied gradient clipping if needed.
                 pass
                 if self.config.grad_norm_max:
+                    norm = None
                     pass
                 else:
                     norm = 0.0

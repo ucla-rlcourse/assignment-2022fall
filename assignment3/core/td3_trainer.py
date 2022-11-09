@@ -184,7 +184,6 @@ class TD3Trainer:
         current_Q1, current_Q2 = self.critic(state, action)
 
         # Compute critic loss
-        # [TODO]
         critic_loss = F.mse_loss(current_Q1, target_Q) + F.mse_loss(current_Q2, target_Q)
 
         # Optimize the critic
